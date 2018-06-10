@@ -15,4 +15,12 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/button_height" />
 
+    <Button
+        android:id="@+id/button_handler"
+        android:text="@string/handler_activity_title"
+        android:textAllCaps="false"
+        android:layout_below="@+id/button_simple"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height" />
+
 </RelativeLayout>

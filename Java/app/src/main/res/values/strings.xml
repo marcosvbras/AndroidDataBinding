@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidDataBinding</string>
+    <string name="simple_activity_title">Simple Data Binding</string>
+    <string name="handler_activity_title">Using Handlers</string>
+    <string name="button_one">One Click</string>
+    <string name="button_two">Long Click</string>
+    <string name="button_three">Button 3</string>
+</resources>

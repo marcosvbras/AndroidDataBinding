@@ -14,6 +14,6 @@ public class SimpleActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         activitySimpleBinding = DataBindingUtil.setContentView(this, R.layout.activity_simple);
-        activitySimpleBinding.setText(new Text("Hello Data Binding World!"));
+        activitySimpleBinding.setExample(new ExampleObject("Hello Data Binding World!"));
     }
 }
