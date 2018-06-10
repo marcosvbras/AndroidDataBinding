@@ -5,4 +5,11 @@
     <string name="button_one">One Click</string>
     <string name="button_two">Long Click</string>
     <string name="button_three">Button 3</string>
+    <string name="button_lamp">Lamp with ObservableBoolean</string>
+    <string name="button_other_fields">Other Observable Fields</string>
+    <string name="observable_objects_activity">Observable Objects</string>
+    <string name="other_fields_activity">Other Fields</string>
+    <string name="lights_on">Lights On</string>
+    <string name="lights_off">Lights Off</string>
+    <string name="tap_on_lamp">Tap on lamp to control the lights</string>
 </resources>

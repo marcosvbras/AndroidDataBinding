@@ -1,4 +1,4 @@
-package com.marcosvbras.androiddatabinding;
+package com.marcosvbras.androiddatabinding.helpers;
 
 public class ExampleObject {
 

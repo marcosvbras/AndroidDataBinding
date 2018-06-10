@@ -6,17 +6,17 @@
     <data>
         <variable
             name="clickHandler"
-            type="com.marcosvbras.androiddatabinding.ClickHandler"/>
+            type="com.marcosvbras.androiddatabinding.helpers.ClickHandler"/>
         <variable
             name="example"
-            type="com.marcosvbras.androiddatabinding.ExampleObject"/>
+            type="com.marcosvbras.androiddatabinding.helpers.ExampleObject"/>
     </data>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="@dimen/layout_margin"
         android:orientation="vertical"
-        tools:context=".ClickHandlerActivity">
+        tools:context=".activities.ClickHandlerActivity">
 
         <Button
             android:text="@string/button_one"

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_margin="@dimen/layout_margin"
-    tools:context=".MainActivity">
+    tools:context=".activities.MainActivity">
 
     <Button
         android:id="@+id/button_simple"
@@ -20,6 +20,14 @@
         android:text="@string/handler_activity_title"
         android:textAllCaps="false"
         android:layout_below="@+id/button_simple"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height" />
+
+    <Button
+        android:id="@+id/button_observable"
+        android:text="@string/observable_objects_activity"
+        android:textAllCaps="false"
+        android:layout_below="@+id/button_handler"
         android:layout_width="match_parent"
         android:layout_height="@dimen/button_height" />
 
