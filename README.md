@@ -15,7 +15,10 @@ You can find the following examples:
 -   Click events
 -   Observable objects
 
-![alt-text-1](img/screen_lights_off.png "title-1") ![alt-text-2](img/screen_lights_on.png "title-2")
+<p align="center">
+  <img src="img/off.png" alt="Custom image"/>
+  <img src="img/on.png" alt="Custom image"/>
+</p>
 
 ## TO DO
 -   More examples
